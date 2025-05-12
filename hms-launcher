@@ -1,0 +1,18 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+# Bootstrap a local venv if missing
+if [ ! -d ".venv" ]; then
+  echo "Creating Python venv in .venv and installing dependencies…"
+  python3 -m venv .venv
+  # shellcheck disable=SC1091
+  . .venv/bin/activate
+  pip install --upgrade pip
+  pip install -r requirements.txt
+else
+  # shellcheck disable=SC1091
+  . .venv/bin/activate
+fi
+
+# Exec the TTY launcher
+exec python3 scripts/hms_launcher.py "$@" 
