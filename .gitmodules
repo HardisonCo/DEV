@@ -28,3 +28,24 @@
 [submodule "SYSTEM_COMPONENTS/HMS-SYS"]
 	path = SYSTEM_COMPONENTS/HMS-SYS
 	url = git@github.com:HardisonCo/HMS-SYS.git
+[submodule "SYSTEM_COMPONENTS/HMS-CDF"]
+	path = SYSTEM_COMPONENTS/HMS-CDF
+	url = git@github.com:HardisonCo/HMS-CDF.git
+[submodule "SYSTEM_COMPONENTS/HMS-RED"]
+	path = SYSTEM_COMPONENTS/HMS-RED
+	url = git@github.com:HardisonCo/HMS-RED.git
+[submodule "SYSTEM_COMPONENTS/HMS-SIM"]
+	path = SYSTEM_COMPONENTS/HMS-SIM
+	url = git@github.com:HardisonCo/HMS-SIM.git
+[submodule "SYSTEM_COMPONENTS/HMS-MCP"]
+	path = SYSTEM_COMPONENTS/HMS-MCP
+	url = git@github.com:HardisonCo/HMS-MCP.git
+[submodule "SYSTEM_COMPONENTS/HMS-EMR"]
+	path = SYSTEM_COMPONENTS/HMS-EMR
+	url = git@github.com:HardisonCo/HMS-EMR.git
+[submodule "SYSTEM_COMPONENTS/HMS-RAG"]
+	path = SYSTEM_COMPONENTS/HMS-RAG
+	url = git@github.com:HardisonCo/HMS-RAG.git
+[submodule "SYSTEM_COMPONENTS/HMS-BOT"]
+	path = SYSTEM_COMPONENTS/HMS-BOT
+	url = git@github.com:HardisonCo/HMS-BOT.git
