@@ -1,0 +1,30 @@
+[submodule "SYSTEM_COMPONENTS/HMS-API"]
+	path = SYSTEM_COMPONENTS/HMS-API
+	url = git@github.com:HardisonCo/HMS-API.git
+[submodule "SYSTEM_COMPONENTS/HMS-GOV"]
+	path = SYSTEM_COMPONENTS/HMS-GOV
+	url = git@github.com:HardisonCo/HMS-GOV.git
+[submodule "SYSTEM_COMPONENTS/HMS-MKT"]
+	path = SYSTEM_COMPONENTS/HMS-MKT
+	url = git@github.com:HardisonCo/HMS-MKT.git
+[submodule "SYSTEM_COMPONENTS/HMS-UTL"]
+	path = SYSTEM_COMPONENTS/HMS-UTL
+	url = git@github.com:HardisonCo/HMS-UTL.git
+[submodule "SYSTEM_COMPONENTS/HMS-A2A"]
+	path = SYSTEM_COMPONENTS/HMS-A2A
+	url = git@github.com:HardisonCo/HMS-A2A.git
+[submodule "SYSTEM_COMPONENTS/HMS-ETL"]
+	path = SYSTEM_COMPONENTS/HMS-ETL
+	url = git@github.com:HardisonCo/HMS-ETL.git
+[submodule "SYSTEM_COMPONENTS/HMS-NFO"]
+	path = SYSTEM_COMPONENTS/HMS-NFO
+	url = git@github.com:HardisonCo/HMS-NFO.git
+[submodule "SYSTEM_COMPONENTS/HMS-MFE"]
+	path = SYSTEM_COMPONENTS/HMS-MFE
+	url = git@github.com:HardisonCo/HMS-MFE.git
+[submodule "SYSTEM_COMPONENTS/HMS-LLM"]
+	path = SYSTEM_COMPONENTS/HMS-LLM
+	url = git@github.com:HardisonCo/HMS-LLM.git
+[submodule "SYSTEM_COMPONENTS/HMS-SYS"]
+	path = SYSTEM_COMPONENTS/HMS-SYS
+	url = git@github.com:HardisonCo/HMS-SYS.git
